@@ -1,0 +1,16 @@
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\bin\Debug\net8.0-windows\Scramble.exe
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\bin\Debug\net8.0-windows\Scramble.deps.json
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\bin\Debug\net8.0-windows\Scramble.runtimeconfig.json
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\bin\Debug\net8.0-windows\Scramble.dll
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\bin\Debug\net8.0-windows\Scramble.pdb
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\Scramble.Form1.resources
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\Scramble.csproj.GenerateResource.cache
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\Scramble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\Scramble.AssemblyInfoInputs.cache
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\Scramble.AssemblyInfo.cs
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\Scramble.csproj.CoreCompileInputs.cache
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\Scramble.dll
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\refint\Scramble.dll
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\Scramble.pdb
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\Scramble.genruntimeconfig.cache
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\ref\Scramble.dll

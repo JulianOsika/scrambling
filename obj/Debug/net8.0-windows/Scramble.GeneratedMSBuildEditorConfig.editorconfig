@@ -17,3 +17,6 @@ build_property.RootNamespace = Scramble
 build_property.ProjectDir = C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

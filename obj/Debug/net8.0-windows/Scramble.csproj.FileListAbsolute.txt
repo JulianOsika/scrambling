@@ -14,3 +14,4 @@ C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\
 C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\Scramble.pdb
 C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\Scramble.genruntimeconfig.cache
 C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\ref\Scramble.dll
+C:\Users\Julo\Desktop\WSEI\S3\Bezpieczeństwo\Scramble\obj\Debug\net8.0-windows\Scramble.sourcelink.json
